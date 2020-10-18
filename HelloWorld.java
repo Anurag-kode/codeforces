@@ -13,7 +13,7 @@ public class HelloWorld implements Runnable {
     private static final double eps = (double) (1E-9);
 
     private void solve() throws IOException {
-        System.out.println("Hello World Tree");
+        System.out.println("Hello World");
     }
 
     public static void main(String[] args) throws IOException {
